@@ -1,10 +1,4 @@
 #pragma once
-//  Created by Frank M. Carrano and Timothy M. Henry.
-//  Copyright (c) 2017 Pearson Education, Hoboken, New Jersey.
-
-/** ADT stack: Array-based implementation.
-Listing 7-1
-@file ArrayStack.h */
 
 #ifndef ARRAY_STACK_
 #define ARRAY_STACK_
