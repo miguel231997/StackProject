@@ -1,9 +1,4 @@
 #pragma once
-//  Created by Frank M. Carrano and Timothy M. Henry.
-//  Copyright (c) 2017 Pearson Education, Hoboken, New Jersey.
-
-/** Listing 7-4.
-@file LinkedStack.cpp */
 
 #include <cassert>        // For assert
 /*#include "LinkedStack.h"*/  // Header file
